@@ -60,6 +60,72 @@ main{
     margin:0;
 }
 
+
+/* first photo */
+.i1{
+    background: url(a.JPEG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    flex: 0 1 60vw;
+    margin:0;
+    display:block;
+    width:100%;
+}
+
+.i2{
+    background: url(h.JPEG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    flex: 0 1 60vw;
+    margin:0;
+    display:block;
+    width:100%;
+}
+
+.i3{
+    background: url(j.JPEG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    flex: 0 1 60vw;
+    margin:0;
+    display:block;
+    width:100%;
+}
+
+.i4{
+    background: url(f.JPEG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    flex: 0 1 60vw;
+    margin:0;
+    display:block;
+    width:100%;
+}
+
+.i5{
+    background: url(k.JPEG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    flex: 0 1 60vw;
+    margin:0;
+    display:block;
+    width:100%;
+}
+
+.i1 h3{
+    top:100rem;
+}
+
 footer{
     text-align: center;
     padding: 1rem;
